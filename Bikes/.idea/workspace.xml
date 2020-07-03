@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec323760-9f62-403d-8181-057d52331e6a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bikes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ecobike/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ecobike/helpers/BikeCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ecobike/helpers/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ecobike/model/AbstractBike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ecobike/model/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ecobike/model/BikeType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ecobike/model/EBike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ecobike/model/FoldingBike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ecobike/model/Speedelec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ecobike/helpers/BikeCreatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ecobike/model/EBikeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ecobike/model/FoldingBikeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ecobike/model/SpeedelecTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/Bikes.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ecobike/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ecobike/helpers/BikeCreator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ecobike/helpers/Menu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ecobike/model/AbstractBike.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ecobike/model/Bike.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ecobike/model/BikeType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ecobike/model/EBike.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ecobike/model/FoldingBike.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ecobike/model/Speedelec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/ecobike/helpers/BikeCreatorTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/ecobike/model/EBikeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/ecobike/model/FoldingBikeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/ecobike/model/SpeedelecTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1e7H3zRszb2ttFfHLx0XZH2G4jC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="junit.framework.TestCase" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="$USER_HOME$/Program Files/nodejs/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.ecobike.helpers" />
+      <recent name="com.ecobike.model" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="junit.framework.TestCase" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Bikes\src\main\java\com\ecobike" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ecobike.App" />
+      <module name="Bikes" />
+      <option name="PROGRAM_PARAMETERS" value="D:/ecobike.txt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ecobike.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BikeCreatorTest.testGetBikeFromStringSpeedelec" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Bikes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ecobike.helpers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ecobike.helpers" />
+      <option name="MAIN_CLASS_NAME" value="com.ecobike.helpers.BikeCreatorTest" />
+      <option name="METHOD_NAME" value="testGetBikeFromStringSpeedelec" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EBikeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Bikes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ecobike.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ecobike.model" />
+      <option name="MAIN_CLASS_NAME" value="com.ecobike.model.EBikeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FoldingBikeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Bikes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ecobike.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ecobike.model" />
+      <option name="MAIN_CLASS_NAME" value="com.ecobike.model.FoldingBikeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpeedelecTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Bikes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ecobike.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ecobike.model" />
+      <option name="MAIN_CLASS_NAME" value="com.ecobike.model.SpeedelecTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpeedelecTest.testConstruct" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Bikes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ecobike.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ecobike.model" />
+      <option name="MAIN_CLASS_NAME" value="com.ecobike.model.SpeedelecTest" />
+      <option name="METHOD_NAME" value="testConstruct" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.App" />
+      <item itemvalue="JUnit.EBikeTest" />
+      <item itemvalue="JUnit.FoldingBikeTest" />
+      <item itemvalue="JUnit.SpeedelecTest.testConstruct" />
+      <item itemvalue="JUnit.SpeedelecTest" />
+      <item itemvalue="JUnit.BikeCreatorTest.testGetBikeFromStringSpeedelec" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BikeCreatorTest.testGetBikeFromStringSpeedelec" />
+        <item itemvalue="JUnit.SpeedelecTest" />
+        <item itemvalue="JUnit.SpeedelecTest.testConstruct" />
+        <item itemvalue="JUnit.FoldingBikeTest" />
+        <item itemvalue="JUnit.EBikeTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec323760-9f62-403d-8181-057d52331e6a" name="Default Changelist" comment="" />
+      <created>1593665515895</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593665515895</updated>
+      <workItem from="1593665526691" duration="11890000" />
+      <workItem from="1593680132114" duration="1750000" />
+      <workItem from="1593681917288" duration="1787000" />
+      <workItem from="1593683799719" duration="1784000" />
+      <workItem from="1593685632145" duration="1286000" />
+      <workItem from="1593687829062" duration="1765000" />
+      <workItem from="1593689654256" duration="843000" />
+      <workItem from="1593712740474" duration="5140000" />
+      <workItem from="1593750635875" duration="1699000" />
+      <workItem from="1593759107071" duration="755000" />
+      <workItem from="1593760933054" duration="1789000" />
+      <workItem from="1593762759511" duration="1913000" />
+      <workItem from="1593764746204" duration="1782000" />
+      <workItem from="1593766577980" duration="1778000" />
+      <workItem from="1593768394285" duration="1781000" />
+      <workItem from="1593770210802" duration="1784000" />
+      <workItem from="1593772029162" duration="1782000" />
+      <workItem from="1593773848776" duration="583000" />
+      <workItem from="1593776469417" duration="395000" />
+      <workItem from="1593777679743" duration="319000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="70" key="#Templates" timestamp="1593716101595">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#Templates/0.0.1536.824@0.0.1536.824" timestamp="1593716101595" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593776001696">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1593776001696" />
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1593775956843">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824@0.0.1536.824" timestamp="1593775956843" />
+    <state x="574" y="118" key="#com.intellij.ide.util.MemberChooser" timestamp="1593771925612">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="118" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1593771925612" />
+    <state x="471" y="158" key="#com.intellij.refactoring.memberPullUp.PullUpDialog" timestamp="1593677124133">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="471" y="158" key="#com.intellij.refactoring.memberPullUp.PullUpDialog/0.0.1536.824@0.0.1536.824" timestamp="1593677124133" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1593764246935">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1593764246935" />
+    <state width="1493" height="235" key="GridCell.Tab.0.bottom" timestamp="1593776519194">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="235" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593776519194" />
+    <state width="1493" height="235" key="GridCell.Tab.0.center" timestamp="1593776519194">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="235" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593776519194" />
+    <state width="1493" height="235" key="GridCell.Tab.0.left" timestamp="1593776519194">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="235" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593776519194" />
+    <state width="1493" height="235" key="GridCell.Tab.0.right" timestamp="1593776519194">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="235" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593776519194" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1593772849707">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593772849707" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1593772849707">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1593772849707" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1593772849707">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1593772849707" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1593772849707">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1593772849707" />
+    <state x="584" y="346" key="ReplaceDuplicatesPrompt" timestamp="1593671668876">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="584" y="346" key="ReplaceDuplicatesPrompt/0.0.1536.824@0.0.1536.824" timestamp="1593671668876" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1593764263772">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1593764263772" />
+    <state x="1006" y="112" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1593774394918">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="1006" y="112" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1593774394918" />
+    <state x="499" y="173" key="extract.method.dialog" timestamp="1593684180891">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="173" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1593684180891" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1593774218538">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1593774218538" />
+  </component>
+</project>
