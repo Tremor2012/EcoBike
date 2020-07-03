@@ -1,49 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec323760-9f62-403d-8181-057d52331e6a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/$CACHE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bikes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ecobike/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ecobike/helpers/BikeCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ecobike/helpers/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ecobike/model/AbstractBike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ecobike/model/Bike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ecobike/model/BikeType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ecobike/model/EBike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ecobike/model/FoldingBike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ecobike/model/Speedelec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ecobike/helpers/BikeCreatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ecobike/model/EBikeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ecobike/model/FoldingBikeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ecobike/model/SpeedelecTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/Bikes.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/ecobike/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/ecobike/helpers/BikeCreator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/ecobike/helpers/Menu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/ecobike/model/AbstractBike.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/ecobike/model/Bike.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/ecobike/model/BikeType.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/ecobike/model/EBike.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/ecobike/model/FoldingBike.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/ecobike/model/Speedelec.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/ecobike/helpers/BikeCreatorTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/ecobike/model/EBikeTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/ecobike/model/FoldingBikeTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/ecobike/model/SpeedelecTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
-    </list>
+    <list default="true" id="ec323760-9f62-403d-8181-057d52331e6a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,14 +22,10 @@
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1e7H3zRszb2ttFfHLx0XZH2G4jC" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -84,7 +38,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="junit.framework.TestCase" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../!Bikes" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -296,26 +250,11 @@
       <workItem from="1593772029162" duration="1782000" />
       <workItem from="1593773848776" duration="583000" />
       <workItem from="1593776469417" duration="395000" />
-      <workItem from="1593777679743" duration="319000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="70" key="#Templates" timestamp="1593716101595">
